@@ -1,0 +1,14 @@
+.project
+.settings
+.classpath
+target
+
+*.iml
+.idea/
+
+# LeanCloud
+.avoscloud
+.leancloud
+
+PaasKeyValueCache
+data
